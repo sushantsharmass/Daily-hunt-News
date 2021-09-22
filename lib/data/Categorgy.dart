@@ -1,0 +1,4 @@
+class CategorgyModel {
+
+  String categorgyName;
+}
